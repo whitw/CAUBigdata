@@ -1,150 +1,150 @@
-Ski-in/Ski-out
-Dishes and silverware
-Long term stays allowed
-BBQ grill
-Bathrobes
-Private entrance
-Lockbox
-Internet
-Accessible-height toilet
-First aid kit
-EV charger
-Trash can
-Laptop friendly workspace
-Body soap
-Bathtub
-Kitchen
-Crib
-Waterfront
-Disabled parking spot
-Turndown service
-Elevator
-Essentials
-Shower chair
-Carbon monoxide detector
-Slippers
-Hangers
-Microwave
-Wide hallways
-Washer/Dryer
-Smoking allowed
-Wide clearance to shower
-Well-lit path to entrance
-Self check-in
-Beach essentials
-Bread maker
-translation missing: en.hosting_amenity_49
-toilet
-Dryer
-Free street parking
-Smart lock
-Other
-Fixed grab bars for shower
-Ceiling hoist
-No stairs or steps to enter
-24-hour check-in
-Air conditioning
-translation missing: en.hosting_amenity_50
-Wide doorway to guest bathroom
-Bathroom essentials
-Pocket wifi
-Baby monitor
-Pets live on this property
-Safe
-Safety card
-Lake access
-Cat(s)
-Breakfast
-Shower gel
-Baking sheet
-Gym
-Pool
-Coffee maker
-Doorman
-Ground floor access
-Pets allowed
-Cleaning before checkout
-Record player
-Full kitchen
-Extra pillows and blankets
-Bottled water
-Beachfront
-Mini fridge
-Mini bar
-Oven
-Luggage dropoff allowed
-Hot tub
-Wide entryway
-Hair dryer
-Lock on bedroom door
-Changing table
-Cable TV
-Wifi
-Accessible-height bed
-Children¡¯s books and toys
-Building staff
-Bathtub with bath chair
-Air purifier
-Washer / Dryer
-Private living room
-Mobile hoist
-Buzzer/wireless intercom
-Single level home
-Heating
-Pack ¡¯n Play/travel crib
-Extra space around bed
-Hot water kettle
-Baby bath
-Children¡¯s dinnerware
-Room-darkening shades
-Dishwasher
-Refrigerator
-Fixed grab bars for toilet
-Toilet paper
-Paid parking on premises
-Bath towel
-Bedroom comforts
-Patio or balcony
-Private bathroom
-Cooking basics
-Fire extinguisher
-Stove
-Host greets you
-Handheld shower head
-Wide entrance
-Kitchenette
-Bluetooth speaker
-Suitable for events
-Babysitter recommendations
-Wide entrance for guests
-Dog(s)
-Iron
-Ethernet connection
-Firm mattress
 Keypad
-Barbecue utensils
-Window guards
-High chair
-Hot water
 Step-free shower
-Smoke detector
-Outlet covers
-Family/kid friendly
-Fireplace guards
-Electric profiling bed
-Game console
-Garden or backyard
-Washer
-Flat path to guest entrance
-Snacks
+Record player
+Mini fridge
+Wide entryway
 Shampoo
-TV
-Paid parking off premises
 Table corner guards
-Free parking on premises
+High chair
+Trash can
 Stair gates
-Bed linens
-Pool with pool hoist
-Indoor fireplace
-Other pet(s)
+translation missing: en.hosting_amenity_49
+Hot water
+Ground floor access
+Barbecue utensils
+Private entrance
+Beach essentials
+Laptop friendly workspace
+Kitchen
+Microwave
+Firm mattress
+Refrigerator
+Smoking allowed
+Stove
+Suitable for events
+Bedroom comforts
+Carbon monoxide detector
+Babysitter recommendations
+Outlet covers
+Coffee maker
+Paid parking off premises
+Host greets you
+translation missing: en.hosting_amenity_50
+24-hour check-in
+Turndown service
+Hot tub
+toilet
+Fireplace guards
+Bluetooth speaker
+Other
+First aid kit
+Dryer
+Shower chair
+Pets allowed
 Wheelchair accessible
+Washer
+Private living room
+Essentials
+Shower gel
+Pool
+Changing table
+Accessible-height toilet
+Internet
+Building staff
+Garden or backyard
+Crib
+Air purifier
+Breakfast
+Cleaning before checkout
+Washer/Dryer
+Family/kid friendly
+Bathtub with bath chair
+Free street parking
+Other pet(s)
+Extra space around bed
+Bread maker
+Hangers
+Fixed grab bars for toilet
+Bottled water
+Patio or balcony
+Toilet paper
+Accessible-height bed
+Lock on bedroom door
+Paid parking on premises
+Body soap
+Ceiling hoist
+Doorman
+Dishwasher
+Cooking basics
+Cat(s)
+Baking sheet
+Wide doorway to guest bathroom
+Free parking on premises
+Disabled parking spot
+Heating
+Bed linens
+Fire extinguisher
+Ski-in/Ski-out
+Ethernet connection
+Self check-in
+Air conditioning
+Hot water kettle
+Pack ¡¯n Play/travel crib
+Bath towel
+Wifi
+Baby monitor
+Pool with pool hoist
+Dishes and silverware
+Mini bar
+Dog(s)
+Wide clearance to shower
+Indoor fireplace
+Elevator
+Hair dryer
+Children¡¯s dinnerware
+Smart lock
+Long term stays allowed
+Pets live on this property
+BBQ grill
+Cable TV
+Bathtub
+Kitchenette
+Washer / Dryer
+Extra pillows and blankets
+Beachfront
+Smoke detector
+Handheld shower head
+Snacks
+Private bathroom
+Fixed grab bars for shower
+Electric profiling bed
+Single level home
+Safety card
+Bathroom essentials
+Bathrobes
+Flat path to guest entrance
+Pocket wifi
+Waterfront
+Wide entrance
+Full kitchen
+Lake access
+Iron
+No stairs or steps to enter
+Wide hallways
+Game console
+Lockbox
+Mobile hoist
+Baby bath
+Luggage dropoff allowed
+Well-lit path to entrance
+Wide entrance for guests
+Safe
+Window guards
+Room-darkening shades
+Buzzer/wireless intercom
+Gym
+EV charger
+Slippers
+Children¡¯s books and toys
+TV
+Oven
