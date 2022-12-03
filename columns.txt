@@ -1,76 +1,216 @@
-id
-host_id
-host_since
-host_location
-host_response_time
-host_response_rate
-host_acceptance_rate
+property_type_Aparthotel
+property_type_Apartment
+property_type_Barn
+property_type_Bed and breakfast
+property_type_Boat
+property_type_Boutique hotel
+property_type_Bungalow
+property_type_Bus
+property_type_Cabin
+property_type_Camper/RV
+property_type_Casa particular (Cuba)
+property_type_Castle
+property_type_Cave
+property_type_Condominium
+property_type_Cottage
+property_type_Dome house
+property_type_Dorm
+property_type_Earth house
+property_type_Farm stay
+property_type_Guest suite
+property_type_Guesthouse
+property_type_Hostel
+property_type_Hotel
+property_type_House
+property_type_Houseboat
+property_type_In-law
+property_type_Island
+property_type_Lighthouse
+property_type_Loft
+property_type_Other
+property_type_Resort
+property_type_Serviced apartment
+property_type_Tent
+property_type_Timeshare
+property_type_Tiny house
+property_type_Townhouse
+property_type_Train
+property_type_Treehouse
+property_type_Villa
+property_type_Yurt
+room_type_Entire home/apt
+room_type_Hotel room
+room_type_Private room
+room_type_Shared room
+bed_type_Airbed
+bed_type_Couch
+bed_type_Futon
+bed_type_Pull-out Sofa
+bed_type_Real Bed
+cancellation_policy_flexible
+cancellation_policy_moderate
+cancellation_policy_strict
+cancellation_policy_strict_14_with_grace_period
+cancellation_policy_super_strict_30
+cancellation_policy_super_strict_60
 host_is_superhost
-host_neighbourhood
-host_listings_count
-host_total_listings_count
-host_verifications
-host_has_profile_pic
 host_identity_verified
-street
-neighbourhood
-neighbourhood_cleansed
-neighbourhood_group_cleansed
-city
-state
-zipcode
-market
-smart_location
 latitude
 longitude
 is_location_exact
-property_type
-room_type
 accommodates
 bathrooms
 bedrooms
 beds
-bed_type
-amenities
-square_feet
 price
-weekly_price
-monthly_price
-security_deposit
-cleaning_fee
-guests_included
-extra_people
-minimum_nights
-maximum_nights
-minimum_minimum_nights
-maximum_minimum_nights
-minimum_maximum_nights
-maximum_maximum_nights
-minimum_nights_avg_ntm
-maximum_nights_avg_ntm
-calendar_updated
-availability_30
-availability_60
-availability_90
-availability_365
 number_of_reviews
-number_of_reviews_ltm
-first_review
-last_review
 review_scores_rating
-review_scores_accuracy
-review_scores_cleanliness
-review_scores_checkin
-review_scores_communication
-review_scores_location
-review_scores_value
-license
 instant_bookable
-cancellation_policy
-require_guest_profile_picture
-require_guest_phone_verification
-calculated_host_listings_count
-calculated_host_listings_count_entire_homes
-calculated_host_listings_count_private_rooms
-calculated_host_listings_count_shared_rooms
-reviews_per_month
+TV
+Wifi
+Air conditioning
+Kitchen
+Paid parking off premises
+Free street parking
+Heating
+Family/kid friendly
+Smoke detector
+Carbon monoxide detector
+Fire extinguisher
+Essentials
+Lock on bedroom door
+Hair dryer
+Iron
+Laptop friendly workspace
+Self check-in
+Keypad
+Private living room
+Bathtub
+Hot water
+Bed linens
+Extra pillows and blankets
+Ethernet connection
+Coffee maker
+Refrigerator
+Dishes and silverware
+Cooking basics
+Oven
+Stove
+Luggage dropoff allowed
+Long term stays allowed
+Cleaning before checkout
+Cable TV
+Internet
+Pets allowed
+Shampoo
+24-hour check-in
+Hangers
+Lockbox
+High chair
+Stair gates
+Children¡¯s books and toys
+Pack ¡¯n Play/travel crib
+Microwave
+Buzzer/wireless intercom
+First aid kit
+Host greets you
+Pets live on this property
+Cat(s)
+Doorman
+Breakfast
+Dog(s)
+Elevator
+Suitable for events
+Washer
+Dryer
+Safety card
+Patio or balcony
+Garden or backyard
+Beach essentials
+Private entrance
+Dishwasher
+Other
+Building staff
+Shower gel
+Indoor fireplace
+Changing table
+Room-darkening shades
+Children¡¯s dinnerware
+Handheld shower head
+Crib
+BBQ grill
+Wheelchair accessible
+Window guards
+Pocket wifi
+Single level home
+Babysitter recommendations
+Baking sheet
+Trash can
+Pool
+Washer/Dryer
+Paid parking on premises
+Hot tub
+Free parking on premises
+Other pet(s)
+Smart lock
+Gym
+Outlet covers
+Baby bath
+Table corner guards
+Firm mattress
+Smoking allowed
+Waterfront
+Game console
+Fireplace guards
+EV charger
+Wide hallways
+Wide entrance for guests
+Well-lit path to entrance
+Ski-in/Ski-out
+Private bathroom
+Baby monitor
+No stairs or steps to enter
+Barbecue utensils
+Flat path to guest entrance
+Beachfront
+Extra space around bed
+Accessible-height bed
+Accessible-height toilet
+Fixed grab bars for shower
+Hot water kettle
+Lake access
+Bread maker
+Ground floor access
+Air purifier
+Wide entrance
+Wide doorway to guest bathroom
+Wide clearance to shower
+toilet
+Wide entryway
+Full kitchen
+Disabled parking spot
+Step-free shower
+Fixed grab bars for toilet
+Shower chair
+Kitchenette
+Bathtub with bath chair
+Body soap
+Bath towel
+Toilet paper
+Safe
+Bedroom comforts
+Bathroom essentials
+Slippers
+Bathrobes
+Bluetooth speaker
+Mini bar
+Bottled water
+Mini fridge
+Electric profiling bed
+Mobile hoist
+Washer / Dryer
+Pool with pool hoist
+Ceiling hoist
+Record player
+Turndown service
+Snacks
